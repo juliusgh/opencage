@@ -42,6 +42,7 @@
                                         countrycode = countrycode,
                                         language = language,
                                         limit = limit,
+                                        roadinfo = 1,
                                         min_confidence = min_confidence,
                                         no_annotations =
                                           ifelse(no_annotations == TRUE, 1, 0),
